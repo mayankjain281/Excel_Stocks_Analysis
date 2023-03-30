@@ -1,5 +1,5 @@
 # Excel_Stocks_Analysis
-Concept used: Google Sheets, Real-time data tracking, Cloud saving and sharing, SPARKLINE fuction to create chart within a cell
+Concept used: Google Sheets, Real-time data tracking, Cloud saving and sharing, SPARKLINE fuction to create chart within a cell, conditional formulas, Conditional formatting, Data validation.
 
 
 # Link to see the Google sheet -
